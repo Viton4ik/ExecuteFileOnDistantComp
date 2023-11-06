@@ -1,2 +1,2 @@
 # ExecuteFileOnDistantComp
-Two ways how to execute the file on a distant computer with python.
+Two ways to execute the file on a distant computer with Python.
